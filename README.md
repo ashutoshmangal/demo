@@ -1,2 +1,2 @@
 # demo
-sdemo purpose
+demo purpose
